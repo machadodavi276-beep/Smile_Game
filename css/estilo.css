@@ -7,7 +7,7 @@
   .inicial {
     text-align: center;
     font-size: 100px;
-    background-color: lightgrey;
+    background-color: rgb(241, 235, 235);
     width: 150px;
     height: 200px;
     border: 15px solid green;
@@ -20,7 +20,7 @@
     background-color: LawnGreen;
     width: 150px;
     height: 200px;
-    border: 15px solid yellow;
+    border: 15px solid rgb(0, 255, 47);
     padding: 10px;
     margin: 20px;
   }
